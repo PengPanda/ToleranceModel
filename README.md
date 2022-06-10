@@ -8,6 +8,7 @@
   ![Tolerance Model](ToleranceModel.png)
 
 ## 2. How to use
+* unzip zipped files in filefolds;
 * run ``DemoSecorder.m``
 * then you can find all figures (including one-reach and two-reach results).
 
